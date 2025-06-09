@@ -2,7 +2,7 @@ Welcome to my github profile! I'm passionate about all things .io games, especia
 
 ---
 ### 🔥 What I'm possibly cooking:
-*   **Physics Engine Shenanigans:** Constantly iterating on my own custom 2D physics engine.
+*   **Physics Engine Shenanigans:** [Constantly iterating on my own custom 2D physics engine Dynastrike](https://github.com/xskutsu/dynastrike).
 *   **Polymania:** My take on a diep.io spinoff game. Lots of exciting (and sometimes cursed) code happening here.
 *   **Various Scripts & Tools:** Often making up userscripts, discord bots, or utilities for games I play.
 ---
